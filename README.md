@@ -11,3 +11,17 @@
     * Yes
 * Can we assume this fits in memory?
     * Yes
+    
+    
+    **Instructions:**
+* Program should be written in file build.py
+* Function name should be has_unique_chars.
+* Input 
+      
+       Type:  String
+       Value: 'AabukLCsfjXwZmpdF'
+       
+* Expected Output
+
+        Type:  Boolean
+        Value: False
