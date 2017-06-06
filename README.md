@@ -24,4 +24,4 @@
 * Expected Output
 
         Type:  Boolean
-        Value: False
+        Value: False.
